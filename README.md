@@ -79,7 +79,8 @@ print(" P", ans[n - 1], sep="")
 
 ```
 ## OUTPUT:
-![](1.png)
+![image](https://github.com/Ramsai1234/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/94269989/9377753c-a241-404a-9668-f23534da5142)
+
 ## RESULT:
 Thus the program for the bankers algorithm is implemented successfully.
  
